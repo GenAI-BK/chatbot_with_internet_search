@@ -1,0 +1,9 @@
+openai 
+streamlit 
+requests 
+python-dotenv
+langchain
+serpapi
+httpx>=0.24.1
+beautifulsoup4
+html2text
